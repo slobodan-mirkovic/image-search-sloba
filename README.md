@@ -1,1 +1,1 @@
-https://url-shortener-sloba.glitch.me/
+https://image-search-sloba.glitch.me/
